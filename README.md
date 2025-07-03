@@ -1,20 +1,20 @@
 <!-- Profile Header -->
-<h2 align="center">👋 Hey there! I'm <strong>Mansoob-e-zahra</strong></h2>
+<h2 align="center"> Hey there! I'm <strong>Mansoob-e-zahra</strong></h2>
 
 **Aspiring Data Scientist | Python • ML • NLP • Streamlit**
 
-🔭 Currently building interactive dashboards and ML models with Netflix data  
-🌱 Learning: BERT, dashboard UI/UX, REST APIs  
-📫 Contact: [mansoobezehra@gmail.com] or LinkedIn
+Currently building interactive dashboards and ML models with Netflix data  
+ Learning: BERT, dashboard UI/UX, REST APIs  
+ Contact: [mansoobezehra@gmail.com] or LinkedIn
 
 ---
 ---
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 - **Languages**: Python, Java, c++
 - **Data & ML**: pandas, scikit-learn, matplotlib
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -31,15 +31,15 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Mansoob's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoobezahra&show_icons=true&theme=radical)
 
 ---
 
-## 📅 Latest Blog Posts / Activity
+##  Latest Blog Posts / Activity
 
-<!-- optional: add activity feed or used-readme widgets -->
+
 
 ---
 
