@@ -28,6 +28,8 @@ Currently building interactive dashboards and ML models with Netflix data
 | Project | Description |
 |--------|-------------|
 | **Netflix Dashboard** | Interactive Streamlit app: filtering, visualizations, ML genre/type prediction, Wikipedia scraping | 
+| **Auto commit botfor github** |![ automatically adds daily commit tp you profile](https://github.com/MansoobeZahra/auto-commit-bot/tree/main) | 
+
 
 ---
 
